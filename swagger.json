@@ -2,7 +2,7 @@
     "swagger": "2.0",
     "basePath": "/api",
     "servers": [{
-            "url": "https:\/\/nurutomo.herokuapp.com\/"
+            "url": "https:\/\/shzrgb.herokuapp.com\/"
         },
         {
             "url": "http:\/\/localhost:5000"
@@ -116,7 +116,7 @@
         }
     },
     "info": {
-        "title": "Nurutomo API",
+        "title": "ShzRGB API",
         "version": "1.0",
         "description": "Media manipulation API"
     },
